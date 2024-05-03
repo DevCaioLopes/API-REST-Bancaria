@@ -1,4 +1,5 @@
-O que é o projeto?
+# O que é o projeto?
+
 Esta API REST foi desenvolvida para fornecer acesso às funcionalidades de um Banco Digital. Com ela os usuários podem fazer as seguintes operações:
 
 Criar conta
