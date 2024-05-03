@@ -29,7 +29,7 @@ Outras funcionalidades serão implementadas no futuro.
 Clone esse repositório na sua máquina:
 
 ```bash
-git clone https://github.com/mariana-schmidt/API-REST-banco-online.git
+git clone https://github.com/DevCaioLopes/API-REST-bancaria.git
 ```
 
 Use o gerenciador de pacotes `npm`para instalar as dependencias do projeto:
